@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/CDMX010-total-look",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

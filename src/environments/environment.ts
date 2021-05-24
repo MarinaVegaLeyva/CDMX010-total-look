@@ -2,8 +2,11 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+import { CommonModule } from "@angular/common";
+
  export const environment = {
-   production: false,
+   ...CommonModule,
+     production: true,
      firebase: {
      apiKey: "AIzaSyAH7piBr9MeXgzdNzy8NAuyn4huRoAGurI",
      authDomain: "total-look-f4041.firebaseapp.com",
