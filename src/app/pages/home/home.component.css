@@ -123,11 +123,13 @@
   background: url(../../../assets/images/para-date.png) center no-repeat;
   height: 300px;
   margin-top: 55px;
+  background-size: cover;
 }
 .for-cofee {
   background: url(../../../assets/images/para-cafe.png) center no-repeat;
   height: 300px;
   margin-top: 55px;
+  background-size: cover;
 }
 .eco-mission{
   height: 200px;
@@ -241,17 +243,14 @@
   margin-left: -140px;
 }
 .for-day {
-  background-color: black;
   height: 300px;
   margin-top: 55px;
 }
 .for-date {
-  background-color: yellow;
   height: 300px;
   margin-top: 55px;
 }
 .for-cofee {
-  background-color: black;
   height: 300px;
   margin-top: 55px;
 }
