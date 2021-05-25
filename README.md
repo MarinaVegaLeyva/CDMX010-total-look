@@ -1,3 +1,15 @@
+# Total Look App
+
+## Aquí nuestra interfaz final hecha con Angular, TypeScript, Firebase, Bootstrap, CSS y HTML.
+Here our final app made with Angular, TypeScript, Firebase, Bootstrap, CSS, and HTML.
+
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/01.png)
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/02.png)
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/03.png)
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/04.png)
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/05.png)
+![md-links](https://github.com/MarinaVegaLeyva/CDMX010-total-look/blob/jael/img/06.png)
+
 # CDMX010TotalLook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
